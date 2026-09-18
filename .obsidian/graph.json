@@ -5,18 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Political thought/Newspaper Interpretations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12929023
+      }
+    },
+    {
+      "query": "path:\"Political thought/Daphne Caruana Galizia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Second Semester\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5264590
+      }
+    },
+    {
+      "query": "path:\"Political thought/Joseph Muscat\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16718362
+      }
+    },
+    {
+      "query": "path:\"Political thought\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 2.13762376237624,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.633466657924071,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.45050811767578125,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.13348388671875,
+  "close": true
 }

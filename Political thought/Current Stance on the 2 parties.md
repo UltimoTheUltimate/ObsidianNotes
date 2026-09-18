@@ -1,0 +1,8 @@
+PL: They have done a lot of good in the past during muscat's time, but is marred in a series of scandals. Between 2013 and 2017 especially, (ignoring the scandals) malta actually grew in what seems to be a sustainable way. 
+
+Abela had much less corruption dealings than his predecessor, although his government (based on feeling) has a lack of enforcement. However, when he took office, there was a much bigger dependence on short-termist policy than before. The manifestos of 2022 and 2026 are a good case study of this. This could be to appeal to voters when there is a significant cost of living increase. 
+
+PN: The party is making an exceptional number of mistakes. If the party truly wants to be an alternative government, they need to offer an alternative. being less worse doesn't imply being worth the change. i.e. offering similar populist policy such as tax breaks at the worst time geopolitically, stipend increases, energy subsidies. There may have been a reason for it behind the scenes, but I feel as though it hurt voter turnout, and ultimately may have been the reason the party got 20k difference instead of say, 10k (which would have signalled the end of the Labor party in government with a 2 seat majority).  
+
+
+They were given a golden opportunity with the verdict, but they went out too fast, went too aggressive and were too "partisan". If you want to seem genuine, you do not point to government and say that they planned it, when there is little evidence. That is the role of the NGOs (to fire shots, since they don't need to worry about political responsibility, and can actually take risk).

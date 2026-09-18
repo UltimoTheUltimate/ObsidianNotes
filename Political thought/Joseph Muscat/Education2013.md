@@ -1,0 +1,1 @@
+In terms of education, the policy here is very strong, albeit very safe. The main points here are purely about future goals about reducing school leaving, working with teachers and the [[one tablet per child]] policy. I still need to evaluate historical context, since 

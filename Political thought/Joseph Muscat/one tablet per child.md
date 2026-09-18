@@ -1,0 +1,1 @@
+I personally oppose this policy due to the  power of hindsight, since I firmly believe that digital devices can severely shorten attention spans, but at the time was a likely good idea. 

@@ -41,11 +41,11 @@ The differential opamp:
 
 ---
 
-For an MOS transistor, if VGS changes, while the dc biasing current remains constant then V_DS must change.
+For an MOS transistor, if $V_{GS}$ changes, while the dc biasing current remains constant then $V_{DS}$ must change.
 
-Thus, from the output characteristics, ID vs V_DS for various values of VGS:
+Thus, from the output characteristics, $I_D$ vs $V_{DS}$ for various values of $V_{GS}$:
 
-- when VGS increases, VDS decreases.
+- when $V_{GS}$ increases, $V_{DS}$ decreases.
 - when VGS decreases, VDS increases.
 
 The common mode input range refers to the common mode input signal limits such that the dc biasing transistor M7 remains in pinchoff. (VGS1, VGS2, VDS7 and so on), the other side, M1, M2 must remain in pinchoff (VGS1, VGS2, VDS1, VDS2).

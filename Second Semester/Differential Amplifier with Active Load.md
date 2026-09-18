@@ -2,20 +2,32 @@ Consider M3 and M4, which are diode connected as the active loads, Differential 
 
 The differential mode ac voltage gain is:
 
-Avdd = vo1 - vo2/vi1-vi2 equiv vo1-vo2/vid
-recalling previous result:
-Avdd = -gm1(rds1//rds3//1/gm3)
-
 and since 
-1/gm << rds
-then Avdd = -gm1/gm3
 
-Avdd = -sqrt(2K'n(w/L)1 (IB/2))/sqrt(2K'p(W/L)3(IB/2))
-Avdd = -sqrt(k'n/k'p(W/L1)/(W/L3))
-AC output resistance for differential output rout  = rout1 + rout2, where rout1 = rds1 // rds2 // 1/gm3
-approx 1/gm3
-therefore rout = 1/gm3 + 1/gm4
-rout = 2/gm3
+$A_{vdd} = \frac{v_{o1} - v_{o2}}{v_{i1} - v_{i2}} \equiv \frac{v_{o1} - v_{o2}}{v_{id}}$
+
+recalling previous result:
+
+$A_{vdd} = -g_{m1}(r_{ds1} \\parallel r_{ds3} \\parallel \frac{1}{g_{m3}})$
+
+and since $\frac{1}{g_m} \ll r_{ds}$
+
+then $A_{vdd} = -\frac{g_{m1}}{g_{m3}}$
+
+$A_{vdd} = -\frac{\sqrt{2K'_n(W/L)_1 (I_B/2)}}{\sqrt{2K'_p(W/L)_3(I_B/2)}}$
+
+$A_{vdd} = -\sqrt{\frac{k'_n}{k'_p} \frac{(W/L)_1}{(W/L)_3}}$
+
+AC output resistance for differential output:
+
+$r_{out} = r_{out1} + r_{out2}$, where $r_{out1} = r_{ds1} \\parallel r_{ds2} \\parallel \frac{1}{g_{m3}}$
+
+approx $\frac{1}{g_{m3}}$
+
+therefore $r_{out} = \frac{1}{g_{m3}} + \frac{1}{g_{m4}}$
+
+$r_{out} = \frac{2}{g_{m3}}$
+
 M3 and M4 are matched
 
 Current Sources as active loads:
@@ -23,67 +35,91 @@ Current Sources as active loads:
 M3 and M4 are now transistors in pinchoff acting as current-source active loads, again, M3 and M4 are matched.
 Differential mode operation, i.e. differential input differential output.
 ![[Pasted image 20251017112020.png]]
-Avdd = -gm1(rds1//rds3)
-= -gm1/gds1+gds3
 
+$A_{vdd} = -g_{m1}(r_{ds1} \\parallel r_{ds3})$
 
-in terms of design parameters:
+$= -\frac{g_{m1}}{g_{ds1} + g_{ds3}}$
 
-A_vdd = -sqrt(2k'nw/l(IB/2))/lambdan(IB/2)+lambdap(IB/2)
+In terms of design parameters:
 
-= -sqrt(2K'nW/L1/IB/2)/lambdan+lambdap
- 
- Therefore:
- Av prop sqrt W/L1
- and 
- Av prop 1/sqrtIB
-in order to increase avdd, w/L1 can be increased resulting in larger silicon and/or dc biasing current Ib decreased. 
+$A_{vdd} = -\frac{\sqrt{2k'_n(W/L)(I_B/2)}}{\lambda_n(I_B/2) + \lambda_p(I_B/2)}$
 
- Note that decreasing Ib results also in decreasing the dc power dissipation needed for the differential amplification to operate
- P_dc = Vdc . Idc
- Pdc = Vdc . IB
- ac output resistance differential output rout = rout1 + rout2
- where rout1 = rout2 = rdc1//rds2
- Common mode voltage gain Acs = -gm1
+$= -\frac{\sqrt{2K'_n(W/L)_1/(I_B/2)}}{\lambda_n + \lambda_p}$
 
- Acs = V_O1/V_CM
- =-gm1R/1+2gm1rds7
- Acs is now given by:
+Therefore:
 
- acs approx -rds3/2rds7(21) 
+$A_v \propto \sqrt{W/L_1}$
 
- CMRR = |Avds|/|Acs|
- Where avds is the differential input single-ended output voltage gain, 
- and thus Avds = 1/2Avdd
- therefore Avds = -1/2(gm1/gds1+gds2)
- CMRR = 1/2 gm1/gds1+gds3 . 2rds7/rds3
+and
 
- CMRR  approx gm1gds3rds7/gds1+gds3
+$A_v \propto \frac{1}{\sqrt{I_B}}$
+
+In order to increase $A_{vdd}$, $W/L_1$ can be increased (resulting in larger silicon area) and/or the DC biasing current $I_B$ decreased.
+
+Note that decreasing $I_B$ also decreases the DC power dissipation needed for the differential amplifier to operate:
+
+$P_{dc} = V_{dc} \cdot I_{dc}$
+
+$P_{dc} = V_{dc} \cdot I_B$
+
+AC output resistance for differential output:
+
+$r_{out} = r_{out1} + r_{out2}$
+
+where $r_{out1} = r_{out2} = r_{ds1} \\parallel r_{ds2}$
+
+Common mode voltage gain $A_{cs} = -g_{m1}$
+
+$A_{cs} = \frac{V_{O1}}{V_{CM}}$
+
+$= -\frac{g_{m1}R}{1 + 2g_{m1}r_{ds7}}$
+
+$A_{cs}$ is now given by:
+
+$A_{cs} \approx -\frac{r_{ds3}}{2r_{ds7}}$
+
+$\text{CMRR} = \left| \frac{A_{vds}}{A_{cs}} \right|$
+
+Where $A_{vds}$ is the differential input, single-ended output voltage gain, and thus $A_{vds} = \frac{1}{2}A_{vdd}$
+
+Therefore $A_{vds} = -\frac{1}{2}\left(\frac{g_{m1}}{g_{ds1} + g_{ds2}}\right)$
+
+$\text{CMRR} = \frac{1}{2} \frac{g_{m1}}{g_{ds1} + g_{ds3}} \cdot \frac{2r_{ds7}}{r_{ds3}}$
+
+$\text{CMRR} \approx \frac{g_{m1}g_{ds3}r_{ds7}}{g_{ds1} + g_{ds3}}$
 
 
  Differential Amplifier with current Mirror Load
  ![[Pasted image 20251017114302.png]]
  M3,M4 form a  current mirror acting as the active load of M1,M2. Note that the output is now single-ended.
 
- AC Voltage gain:
- Avd = vo/vi1-vi2 = vo/vid
- Draw the AC equivalent circuit:
+
+AC Voltage gain:
+
+$A_{vd} = \frac{v_o}{v_{i1} - v_{i2}} = \frac{v_o}{v_{id}}$
+
+Draw the AC equivalent circuit:
 ![[Pasted image 20251017115927.png]]
 
- M1 matched with M2, M3 matched with M4
- also Vgs4 = Vgs3
+M1 matched with M2, M3 matched with M4
+also $V_{gs4} = V_{gs3}$
 
- Vo = -(gm2Vgs2+gm4Vgs4)(rds2//rds4)
+$v_o = -[g_{m2}V_{gs2} + g_{m4}V_{gs4}](r_{ds2} \\parallel r_{ds4})$
 
- remember: for a differential input Vid, vgs1 = vid/2, vgs2=-vid/2
+Remember: for a differential input $V_{id}$, $v_{gs1} = \frac{v_{id}}{2}$, $v_{gs2} = -\frac{v_{id}}{2}$
 
- Also: Vgs4= -gm1vgs1(rds1//rds3//1/gm3) approx eq -gm1vgs1/gm3
+Also: $V_{gs4} = -g_{m1}v_{gs1}(r_{ds1} \\parallel r_{ds3} \\parallel \frac{1}{g_{m3}}) \approx -\frac{g_{m1}v_{gs1}}{g_{m3}}$
 
- therefore vo = -[gm2(-vid/2)+gm4(-gm1/gm3. vid/2)](rds2//rds4)
- = gm2vid/gds2+gds4
+Therefore:
 
-Avd = gm2/gds2+gds4
+$v_o = -[g_{m2}(-\frac{v_{id}}{2}) + g_{m4}(-\frac{g_{m1}}{g_{m3}} \cdot \frac{v_{id}}{2})](r_{ds2} \\parallel r_{ds4})$
+
+$= \frac{g_{m2}v_{id}}{g_{ds2} + g_{ds4}}$
+
+$A_{vd} = \frac{g_{m2}}{g_{ds2} + g_{ds4}}$
+
 In terms of design parameters:
-Avd = sqrt(2k'nw/L2IB/2)/(lambdan+lambdap)(IB/2)
+
+$A_{vd} = \frac{\sqrt{2k'_n(W/L)_2(I_B/2)}}{(\lambda_n + \lambda_p)(I_B/2)}$
 
 

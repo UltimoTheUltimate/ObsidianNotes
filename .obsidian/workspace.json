@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "3a5c35976af310d2",
+        "id": "76dcfefc99065689",
         "type": "tabs",
         "children": [
           {
-            "id": "a58ac17d35980f4d",
+            "id": "9147d0f8a061d90b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Methodology.md",
+                "file": "Political thought/Daphne Caruana Galizia/Daphne Caruana Galizia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Methodology"
+              "title": "Daphne Caruana Galizia"
+            }
+          },
+          {
+            "id": "618dd65e6408ca87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manoel Island PQ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manoel Island PQ"
+            }
+          },
+          {
+            "id": "600372e765644307",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "core",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "7d79ba0efbffe4ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,20 +201,52 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a58ac17d35980f4d",
+  "active": "618dd65e6408ca87",
   "lastOpenFiles": [
-    "Second Semester/Analogue VLSI.md",
-    "Design Methodology.md",
+    "Political thought/Daphne Caruana Galizia/Daphne Caruana Galizia.md",
+    "Manoel Island PQ.md",
+    "Mark Anthony Sammut.md",
+    "Political thought/Daphne Caruana Galizia/Parliament Daphne Caruana Galizia.md",
+    "Political thought/Newspaper Interpretations/PN calls for national carrying capacity plan after Freedom Street festival mayhem.md",
+    "Political thought/Daphne Caruana Galizia/Public Inquiry.md",
+    "Political thought/Daphne Caruana Galizia/The First Mover's Disadvantage.md",
+    "Political thought/Newspaper Interpretations/Johann Buttigieg Resignation.md",
+    "Political thought/Newspaper Interpretations/Several jurors in Yorgen Fenech trial arrested by police.md",
+    "Political thought/Daphne Caruana Galizia/Public Opinion on Daphne Caruana Galizia before hear death.md",
+    "Political thought/Daphne Caruana Galizia/Protest 16.09.2026.md",
+    "Second Semester/Untitled 2.base",
+    "Second Semester/Untitled.base",
+    "Second Semester/Untitled.canvas",
+    "Political thought/Joseph Muscat/Why Is He so Loved?.md",
+    "Political thought/Daphne Caruana Galizia/intamata.md",
+    "Political thought/Daphne Caruana Galizia",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Protest 16/09/2026.md",
+    "Protest 16/09",
+    "Protest 16",
+    "Political thought/Joseph Muscat/Economy2013.md",
+    "Political thought/Current Stance on the 2 parties.md",
+    "Political thought/Glen Bedingfield",
+    "Political thought/Joseph Muscat",
+    "Second Semester/Transmission Line Theory.md",
+    "README.md",
+    "Untitled.canvas",
+    "Second Semester/Frequency Response for the Miller OTA.md",
+    "Second Semester/Design Methodology.md",
+    "Second Semester/Active Resistors.md",
     "Second Semester/The Core.md",
-    "Frequency Response for the Miller OTA.md",
-    "CMOS Miller OTA.md",
-    "Pasted image 20251028141127.png",
-    "Transmission Line Theory.md",
-    "Second Semester/Radio and Microwave Theory.md",
-    "Transmission Lines.md",
-    "Second Semester/Scattering Parameters.md"
+    "Political thought/Newspaper Interpretations",
+    "Political thought/Joseph Muscat/Vitals Hospital Deal.md",
+    "Political thought/Joseph Muscat/Policy introduced between 2013 and 2017.md",
+    "Political thought/Joseph Muscat/one tablet per child.md",
+    "Political thought/Joseph Muscat/Malta taghna lkoll manifesto.md",
+    "Second Semester/Pasted image 20251014144511.png",
+    "Second Semester/Pasted image 20251017115927.png",
+    "Second Semester/Pasted image 20251028141127.png"
   ]
 }
