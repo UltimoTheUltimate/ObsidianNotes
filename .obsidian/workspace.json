@@ -167,6 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Manoel Island PQ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,19 +175,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "7d79ba0efbffe4ba",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,7 +193,9 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "open-vscode:VSCode": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false,
+      "open-vscode:VS Code": false
     }
   },
   "active": "618dd65e6408ca87",
