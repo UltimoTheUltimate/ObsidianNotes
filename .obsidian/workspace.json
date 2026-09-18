@@ -175,9 +175,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "a5377001604dc6a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,7 +208,7 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "618dd65e6408ca87",
+  "active": "af31f27f76b27382",
   "lastOpenFiles": [
     "Political thought/Daphne Caruana Galizia/Daphne Caruana Galizia.md",
     "Manoel Island PQ.md",
