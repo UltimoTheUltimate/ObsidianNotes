@@ -27,26 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Political thought/Newspaper Interpretations/Several jurors in Yorgen Fenech trial arrested by police.md",
+                "file": "Political thought/Newspaper Interpretations/Alex Agius Saliba runs into legal trouble over procurement contract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Several jurors in Yorgen Fenech trial arrested by police"
+              "title": "Alex Agius Saliba runs into legal trouble over procurement contract"
             }
           },
           {
             "id": "600372e765644307",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Political thought/Newspaper Interpretations/Tell people the whole story Chamber chief challenges Abela on economy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tell people the whole story Chamber chief challenges Abela on economy"
+            }
+          },
+          {
+            "id": "21190e5878358f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Political thought/Newspaper Interpretations/Former chief justice says he quit Daphne inquiry over interference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Former chief justice says he quit Daphne inquiry over interference"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Political thought/Newspaper Interpretations/Several jurors in Yorgen Fenech trial arrested by police.md",
+                "file": "Political thought/Newspaper Interpretations/Former chief justice says he quit Daphne inquiry over interference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +224,15 @@
       "open-vscode:VS Code": false
     }
   },
-  "active": "618dd65e6408ca87",
+  "active": "21190e5878358f99",
   "lastOpenFiles": [
+    "Political thought/Newspaper Interpretations/Former chief justice says he quit Daphne inquiry over interference.md",
+    "Political thought/Newspaper Interpretations/Tell people the whole story Chamber chief challenges Abela on economy.md",
+    "Second Semester/The Core.md",
+    "Political thought/Newspaper Interpretations/Caruana warns ministers cash is running out, spending squeeze looms.md",
+    "Political thought/Newspaper Interpretations/Alex Agius Saliba runs into legal trouble over procurement contract.md",
     "Political thought/Daphne Caruana Galizia/Daphne Caruana Galizia.md",
+    "Political thought/Newspaper Interpretations/Several jurors in Yorgen Fenech trial arrested by police.md",
     "Political thought/Daphne Caruana Galizia/The First Mover's Disadvantage.md",
     "Political thought/Daphne Caruana Galizia/Public Opinion on Daphne Caruana Galizia before hear death.md",
     "Political thought/Daphne Caruana Galizia/Public Inquiry.md",
@@ -219,7 +243,6 @@
     "Mark Anthony Sammut.md",
     "Political thought/Newspaper Interpretations/PN calls for national carrying capacity plan after Freedom Street festival mayhem.md",
     "Political thought/Newspaper Interpretations/Johann Buttigieg Resignation.md",
-    "Political thought/Newspaper Interpretations/Several jurors in Yorgen Fenech trial arrested by police.md",
     "Second Semester/Untitled 2.base",
     "Second Semester/Untitled.base",
     "Second Semester/Untitled.canvas",
@@ -240,12 +263,7 @@
     "Second Semester/Frequency Response for the Miller OTA.md",
     "Second Semester/Design Methodology.md",
     "Second Semester/Active Resistors.md",
-    "Second Semester/The Core.md",
     "Political thought/Newspaper Interpretations",
-    "Political thought/Joseph Muscat/Vitals Hospital Deal.md",
-    "Political thought/Joseph Muscat/Policy introduced between 2013 and 2017.md",
-    "Political thought/Joseph Muscat/one tablet per child.md",
-    "Political thought/Joseph Muscat/Malta taghna lkoll manifesto.md",
     "Second Semester/Pasted image 20251014144511.png",
     "Second Semester/Pasted image 20251017115927.png",
     "Second Semester/Pasted image 20251028141127.png"
