@@ -8,3 +8,5 @@ There were no statements by both parties, which is the best move. Currently it i
 
 also of note: https://www.maltatoday.com.mt/news/court_and_police/144469/breaking__reserve_juror_arrested_in_connection_to_ongoing_probe_into_yorgen_fenech_trial_
 but again, it is too early
+
+[[Daphne Caruana Galizia]]

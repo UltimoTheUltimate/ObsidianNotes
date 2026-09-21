@@ -1,1 +1,0 @@
-The gain-crossover frequency $\omega$g is the frequency at the gain crossover point 

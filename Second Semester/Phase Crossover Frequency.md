@@ -1,1 +1,0 @@
-The Phase crossover frequency $\omega$p is the frequency at the phase crossover point i.e. where the phase is -180$\degree$ 

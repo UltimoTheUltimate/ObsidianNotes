@@ -32,14 +32,28 @@
       "query": "path:\"Political thought/Joseph Muscat\"  ",
       "color": {
         "a": 1,
-        "rgb": 16718362
+        "rgb": 16764186
+      }
+    },
+    {
+      "query": "path:\"Political thought/Partit Nazzjonalista\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Political thought/Partit Laburista\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"Political thought\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5431406
       }
     }
   ],
@@ -53,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3003387451171875,
-  "close": true
+  "scale": 0.45050811767578125,
+  "close": false
 }

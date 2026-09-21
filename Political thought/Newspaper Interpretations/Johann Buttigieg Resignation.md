@@ -11,3 +11,4 @@ https://newsbook.com.mt/en/pa-workers-pressured-to-sign-petition-backing-johann-
 Another question I have is, if he was caught red handed doing such dealings with Yorgen Fenech, why hasn't he been axed? does the prime minister have a choice? is he being threatened? is there a deal?
 https://www.facebook.com/watch/?v=1089424506860409
 
+[[PL]]

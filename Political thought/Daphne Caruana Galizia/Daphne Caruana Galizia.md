@@ -8,7 +8,7 @@ The situation is dire.
 
 While the not guilty verdict was not expected from both sides, everyone made some serious mistakes.
 
-The PL opted for a more safe reply. There were a few mistakes which will be listed below.
+The [[PL]] opted for a more safe reply. There were a few mistakes which will be listed below.
 
 first: https://timesofmalta.com/article/minister-suggests-unclear-daphne-killed-journalist.1133658
 Malcolm Paul Agius Galea made a foolish remark stating that its unclear that daphne was killed because she was a journalist. 
@@ -20,7 +20,7 @@ The likely goal of his statement was to quell the fears of journalists who were 
 
 
 
-PN on the other hand made some serious strategic blunders in my opinion.
+[[PN]] on the other hand made some serious strategic blunders in my opinion.
 
 
 There was also an emergency plenary.

@@ -1,2 +1,0 @@
-[[Series To Parallel Transformations]]
-

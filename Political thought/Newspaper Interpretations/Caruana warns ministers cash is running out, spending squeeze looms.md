@@ -12,3 +12,4 @@ Also likely is the rumour that there was a lot of spending to give people jobs i
 
 "During the first quarter alone, €296.3 million of the €345.5 million increase in expenditure projected [for the entire year had already materialised](https://theshiftnews.com/2026/09/01/clyde-caruanas-election-spending-spree-triggers-fiscal-warning/). That represents 86% of the planned annual increase, leaving little room for further growth"
 
+[[PL]]

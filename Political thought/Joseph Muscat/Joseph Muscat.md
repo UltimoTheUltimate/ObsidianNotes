@@ -4,3 +4,4 @@ These notes will be an in depth look at the past of Joseph Muscat. Policy introd
 [[Policy introduced between 2017 and 2020]]
 [[Why Is He so Loved?]]
 [[Corruption? Yes, Or No?]]
+[[PL]]

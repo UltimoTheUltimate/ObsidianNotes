@@ -1,4 +1,4 @@
-The PN Attempted to strike the iron while it was hot. In principle this sounded like a strategic must, to ride the media criticism, but there are a few faults with this reasoning:
+The [[PN]] Attempted to strike the iron while it was hot. In principle this sounded like a strategic must, to ride the media criticism, but there are a few faults with this reasoning:
 
 1. The door is open to critique.
 	1. If you move first, the opponent will move after you, and one of his moves can be to discredit your previous statements, critique you or even twist your statements against you, as we have seen in parliament, the news and most labour media. If the party opted to wait, let the NGOs speak first AND let government make their first move, the roles would be switched. 

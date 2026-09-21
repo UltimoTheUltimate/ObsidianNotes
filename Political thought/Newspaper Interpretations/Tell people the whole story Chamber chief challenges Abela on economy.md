@@ -1,3 +1,4 @@
+[[PL]]
 https://timesofmalta.com/article/malta-chamber-chief-mixed-messaging-government-economy.1134347
 
 There is plentiful news about the government running out of money, specifically [[Caruana warns ministers cash is running out, spending squeeze looms]] covers this in great detail.
